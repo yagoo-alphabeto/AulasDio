@@ -1,0 +1,11 @@
+stages:
+  - test
+
+realizar_testes:
+  stage: test
+  image: node:20.7.0-alpine3.17
+  before_script:
+    - cd app/
+    - npm install
+  script:
+    - npm test
