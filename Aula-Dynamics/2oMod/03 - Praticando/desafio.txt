@@ -1,0 +1,67 @@
+faça um algoritmo que dado as 3 notas tiradas por um aluno em um semestre da faculdade calcule e imprima a sua media e a sua classificação conforme a tabela abaixo
+
+Media = (nota 1 + nota 2 + nota 3) / 3;
+
+classificação:
+-Média menor que 5, reprovado
+-Média entre 5 e 7 recuperação
+-Média acima de 7, passou de semestre
+
+Resposta 
+
+const nota1 = 5;
+const nota2 = 1;
+const nota3 = 3;
+let media = 0;
+
+media = ((nota1 + nota2 + nota3) / 3)
+
+
+if (media < 5) {
+    console.log('A média foi ' + media + ', então o Aluno foi Reprovado')
+} else if (media > 7) {
+    console.log('A média foi ' + media + ', então o Aluno foi Aprovado')
+} else {
+    console.log('A média foi ' + media + ', então o Aluno foi para a Recuperação')
+}
+
+
+
+O IMC é o Indice de Massa Corporal e é um criterio da organização Mundial da Saúde mpara dar uma indicação sobre a condição de peso de uma pessoa adulta:
+
+Formula do IMC:
+IMC = peso / (altura * altura)
+
+Elabore um algoritmo que dado o peso  e a altura de um adulto, mostre sua condição de acordo com a tabela abaixo:
+
+Tabela IMC:
+Abaixo de 18,5 Abaixo do Peso;
+Entre 18,5 e 25 Peso Normal;
+Entre 25 e 30 Acima do Peso;
+Entre 30 e 40 Obeso;
+Acuma de 40 Obesidade Grave;
+
+Resposta:
+
+
+const peso = 115;
+const altura = 1.85;
+let IMC = 0;
+
+IMC = (peso / (altura * altura));
+
+if (IMC < 18.5) {
+    console.log('O IMC é: ' + IMC + '. Você esta Abaixo do peso')
+} else if (IMC >= 18.5 && IMC < 25) {
+    console.log('O IMC é: ' + IMC + '. Você esta com o Peso Normal')
+} else if (IMC >= 25 && IMC < 30) {
+    console.log('O IMC é: ' + IMC + '. Você esta Acima do peso')
+} else if (IMC >= 30 && IMC < 40) {
+    console.log('O IMC é: ' + IMC + '. Você esta Obeso')
+} else {
+    console.log('O IMC é: ' + IMC + '. Você esta com Obsidade Grave')
+}
+
+
+
+

@@ -1,0 +1,14 @@
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\bin\Debug\net7.0\desafioprojeto1.exe
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\bin\Debug\net7.0\desafioprojeto1.deps.json
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\bin\Debug\net7.0\desafioprojeto1.runtimeconfig.json
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\bin\Debug\net7.0\desafioprojeto1.dll
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\bin\Debug\net7.0\desafioprojeto1.pdb
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.AssemblyInfoInputs.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.AssemblyInfo.cs
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.csproj.CoreCompileInputs.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.dll
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\refint\desafioprojeto1.dll
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.pdb
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\desafioprojeto1.genruntimeconfig.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\desafioprojeto1\obj\Debug\net7.0\ref\desafioprojeto1.dll

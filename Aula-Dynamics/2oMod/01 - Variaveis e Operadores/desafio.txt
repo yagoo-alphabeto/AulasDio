@@ -1,0 +1,31 @@
+Faça um programa para calcular o valor de uma viagem.
+
+Voce terá 3 variaveis. Sendo elas:
+
+    -Preço combustivel
+    -Gasto Médio de combustivel do carro por KM
+    -Distancia da viagem
+
+Imprima no console o valor que sera gassto de combustivel para realizar a viagem
+
+Resposta:
+
+const varGasolina = 5.80;
+const varkmporlitro = 12;
+const varDistancia = 600;
+let varConsumo = 0;
+
+varConsumo = ((varDistancia / varkmporlitro) * varGasolina)
+
+console.log('O Valor da Viagem é: ' + varConsumo.toFixed(2))
+
+
+
+
+
+
+
+
+
+
+

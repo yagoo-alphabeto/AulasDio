@@ -1,0 +1,7 @@
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\bin\Debug\DioProjeto.exe.config
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\bin\Debug\DioProjeto.exe
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\bin\Debug\DioProjeto.pdb
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\obj\Debug\DioProjeto.csproj.AssemblyReference.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\obj\Debug\DioProjeto.csproj.CoreCompileInputs.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\obj\Debug\DioProjeto.exe
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\5oMod\DioProjeto\obj\Debug\DioProjeto.pdb

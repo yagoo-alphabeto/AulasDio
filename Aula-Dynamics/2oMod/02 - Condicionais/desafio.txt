@@ -1,0 +1,30 @@
+Faça um programa para calcular o valor de uma viagem.
+
+Voce terá 5 variaveis. Sendo elas:
+
+    -Preço do Etanol
+    -Preço da gasolina
+    -O tipo do combistivel
+    -Gasto Médio de combustivel do carro por KM
+    -Distancia da viagem
+
+Imprima no console o valor que sera gassto de combustivel para realizar a viagem
+
+Resposta 
+
+const varGasolina = 5.80;
+const varEtanol = 3.62
+const varkmporlitroGasolina = 12;
+const varkmporlitroEtanol = 8;
+const varDistancia = 600;
+const tipocombustivel = 'Etanol'
+let varConsumo = 0;
+
+if (tipocombustivel === 'Etanol') {
+    varConsumo = ((varDistancia / varkmporlitroEtanol) * varEtanol)
+} else {
+    varConsumo = ((varDistancia / varkmporlitroGasolina) * varGasolina)
+}
+
+
+console.log('O Valor da Viagem usando ' + tipocombustivel + ' é: ' + varConsumo.toFixed(2))

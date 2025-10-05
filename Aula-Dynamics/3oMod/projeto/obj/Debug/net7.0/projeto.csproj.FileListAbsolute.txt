@@ -1,0 +1,14 @@
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\bin\Debug\net7.0\projeto.exe
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\bin\Debug\net7.0\projeto.deps.json
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\bin\Debug\net7.0\projeto.runtimeconfig.json
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\bin\Debug\net7.0\projeto.dll
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\bin\Debug\net7.0\projeto.pdb
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.AssemblyInfoInputs.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.AssemblyInfo.cs
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.csproj.CoreCompileInputs.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.dll
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\refint\projeto.dll
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.pdb
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\projeto.genruntimeconfig.cache
+C:\projetos\aulas\Bootcamps\Dynamics-Dio-Aula\3oMod\projeto\obj\Debug\net7.0\ref\projeto.dll
